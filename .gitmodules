@@ -1,0 +1,9 @@
+[submodule "OnyxGameServer"]
+	path = OnyxGameServer
+	url = https://github.com/agicquel/OnyxGameServer
+[submodule "alpha-zero-general"]
+	path = alpha-zero-general
+	url = https://github.com/agicquel/alpha-zero-general
+[submodule "IA-front"]
+	path = IA-front
+	url = https://github.com/JulieC35/IA-front
