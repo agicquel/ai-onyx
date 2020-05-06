@@ -8,7 +8,7 @@ This repo contains the three projects developed for the Onyx AI project.
 
 ### To clone the repo including the submodules
 ```
-git clone --recursive https://github.com/agicquel/all-pasteur
+git clone --recursive https://github.com/agicquel/ai-onyx
 ```
 
 
